@@ -1,0 +1,9 @@
+your-project/
+├── src/
+│   ├── index.ts
+│   ├── routes/
+│   │   └── auth.ts
+│   └── models/
+│       └── user.ts
+├── package.json
+└── tsconfig.json
